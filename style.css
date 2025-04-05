@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Arizona;
+  src: url("fonts/ABCArizonaFlareVariable.en.woff2");
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("fonts/InterVariable.en.woff2");
+}
+
+h1 {
+  font-family: Inter;
+}
